@@ -1,2 +1,2 @@
 # js-bootcamp
-Modern JS Bookcamp Files
+Modern JS Bootcamp Files
